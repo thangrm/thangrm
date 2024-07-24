@@ -20,7 +20,7 @@
 ### <img src="./images/stats.gif" width="30" height="30"> ***About Me***
 
 * 💼 Fullstack Developer at [**CMC Global**](https://cmcglobal.com.vn/)
-* ❤️ I love Backend with PHP, ReactJS, Java and learn about it
+* ❤️ I love coding with PHP, ReactJS, Java and learn about it
 * 📫 Ask me anything you want [**here**](https://github.com/thangrm/thangrm/issues), I would reply within seconds 😉
 * 🔭 Fun fact: I am always trying to learn new things. After I sleep, I will forget everything
 
